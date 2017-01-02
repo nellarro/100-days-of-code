@@ -9,5 +9,6 @@
 
 **Goals:** Make JavaScript Koans part of my weekly ritual. Each Sunday, I'll repeat koans from scratch and see if my time gets better and what things I understand more.
 
-**Link to work:** [JavaScript Koans Day 0](https://github.com/nellarro/javascript-koans)
-[Twitter Recap](https://twitter.com/nellarro/status/815701265908895744)
+**Link to work:** 
+- [JavaScript Koans Day 0](https://github.com/nellarro/javascript-koans)
+- [Twitter Recap](https://twitter.com/nellarro/status/815701265908895744)
