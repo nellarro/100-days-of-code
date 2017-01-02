@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: January 1, 2017
+#### JavaScript Koans
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on FreeCodeCamp during the day until 5:09 and then took a break to do JavaScript Koans and time myself. 5 out of 8 completed by 6:20. 4 checked by Jasmine.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Pretty excited about how well I did. I remember when the entire koan took me about 5 hours. Positive things that I noticed- I understand arr.shift(), arr.unshift(), arr.pop(), and arr.push() a ton more than what I did before! Needs improvement: lexical scopaing and arr.slice().
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Goals:** Make JavaScript Koans part of my weekly ritual. Each Sunday, I'll repeat koans from scratch and see if my time gets better and what things I understand more.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [JavaScript Koans Day 0](https://github.com/nellarro/javascript-koans)
+[Twitter Recap](https://twitter.com/nellarro/status/815701265908895744)
