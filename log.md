@@ -11,3 +11,20 @@
 
 **Link to work:** [JavaScript Koans Day 0](https://github.com/nellarro/javascript-koans)
 [Twitter Recap](https://twitter.com/nellarro/status/815701265908895744)
+
+## Day 1: January 2, 2017
+#### Harley Quinn Photo Gallery (working title)
+
+**Today's Progress**:
+What I did was create the bare bones of the landing page so it has an input field where an "administrator" can submit their username and password to get to the inmate database.
+
+
+**Thoughts**:
+Got started a little late but decided to re-do one of my favorite web applications. The old one uses create-react-app out of the box from about 4 months ago so it is a little outdated. It also does not have React Router. I'm pretty excited about it!
+
+**Goals**:
+Still need to work on a lot of design choices and then will implement TypeJS and React Router on the submit button.
+
+
+**Link to work:** [JavaScript Koans Day 0](https://github.com/nellarro/harley)
+[Twitter Recap](https://twitter.com/nellarro/status/816084341390446592)
