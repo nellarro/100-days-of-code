@@ -30,3 +30,33 @@ Still need to work on a lot of design choices and then will implement TypeJS and
 
 **Link to work:** [Harley](https://github.com/nellarro/harley)
 [Twitter Recap](https://twitter.com/nellarro/status/816084341390446592)
+
+
+## Day 2: January 3, 2017
+#### Harley Quinn Photo Gallery (working title)
+
+**Today's Progress**:
+More design. Progress was a bit slower due to working on a FreeCodeCamp thing prior that gave me a brain fart.
+
+**Thoughts**:
+I am excited with its progress so far but I definitely need to put in more time.
+
+**Goals**:
+Get the landing page completely finished by tomorrow!
+
+
+**Link to work:** [Harley](https://github.com/nellarro/harley)
+
+## Day 3: January 4, 2017
+#### Harley Quinn Photo Gallery (working title)
+
+**Today's Progress**:
+
+
+**Thoughts**:
+
+
+**Goals**:
+
+
+**Link to work:** [Harley](https://github.com/nellarro/harley)
