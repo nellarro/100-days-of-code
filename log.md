@@ -51,12 +51,14 @@ Get the landing page completely finished by tomorrow!
 #### Harley Quinn Photo Gallery (working title)
 
 **Today's Progress**:
-
+Finished the form as boring as I could make it! Added the bones of a motto at the bottom as a footer. More "styling".
 
 **Thoughts**:
-
+It is really taking EVERYTHING in me not to make the landing page look better. Right now it looks terrible (because it's meant to look like a low budget, couldn't care less, Arkham Asylum corporate log-in page). I'm pretty proud of it so far.
 
 **Goals**:
+Officially link in that Router to the submit button!
 
-
-**Link to work:** [Harley](https://github.com/nellarro/harley)
+**Link to work:**
+[Harley](https://github.com/nellarro/harley)
+[Twitter](https://twitter.com/nellarro/status/816863403939692544)
