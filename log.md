@@ -1,17 +1,77 @@
 # 100 Days Of Code - Log
 
-## Day 0: January 1, 2017
-#### JavaScript Koans
+## Day 5: January 6, 2017
+#### Harley Quinn Photo Gallery (working title)
 
-**Today's Progress**: Worked on FreeCodeCamp during the day until 5:09 and then took a break to do JavaScript Koans and time myself. 5 out of 8 completed by 6:20. 4 checked by Jasmine.
 
-**Thoughts:** Pretty excited about how well I did. I remember when the entire koan took me about 5 hours. Positive things that I noticed- I understand arr.shift(), arr.unshift(), arr.pop(), and arr.push() a ton more than what I did before! Needs improvement: lexical scopaing and arr.slice().
+**Today's Progress**:
+TBD
 
-**Goals:** Make JavaScript Koans part of my weekly ritual. Each Sunday, I'll repeat koans from scratch and see if my time gets better and what things I understand more.
+**Thoughts**:
+TBD
+
+**Goals**:
+TBD
 
 **Link to work:**
-- [JavaScript Koans Day 0](https://github.com/nellarro/javascript-koans)
-- [Twitter Recap](https://twitter.com/nellarro/status/815701265908895744)
+- [Harley](https://github.com/nellarro/harley)
+
+
+
+## Day 4: January 5, 2017
+#### Harley Quinn Photo Gallery (working title)
+#### Jr_Dev_Resource (a twitterbot)
+
+
+**Today's Progress**:
+Tinkered with my twitterbot for a few minutes so that it could run while I was working on the Harley project. Added <code>react-router</code> *finally*. Added gradients to the top and bottom of landing page to make it look completely like an Arkham thing. Added more fonts. Set up component layouts for the rules of the game as well as the <code>App</code> component.
+
+**Thoughts**:
+Since it is only a layout, it looks kind of janky to the naked eye right now code-wise. Visually it looks like it's supposed to do. It even has a little note from Harley in the console which is pretty nifty.
+
+**Goals**:
+Completely implement <code>react-router</code> and wireframing the two next JS file.
+
+**Link to work:**
+- [Harley](https://github.com/nellarro/harley)
+- [bot](https://github.com/nellarro/twitterbot)
+- [Twitter post](https://twitter.com/nellarro/status/817235098642903042)
+
+
+
+
+## Day 3: January 4, 2017
+#### Harley Quinn Photo Gallery (working title)
+
+**Today's Progress**:
+Finished the form as boring as I could make it! Added the bones of a motto at the bottom as a footer. More "styling".
+
+**Thoughts**:
+It is really taking EVERYTHING in me not to make the landing page look better. Right now it looks terrible (because it's meant to look like a low budget, couldn't care less, Arkham Asylum corporate log-in page). I'm pretty proud of it so far.
+
+**Goals**:
+Officially link in that Router to the submit button!
+
+**Link to work:**
+- [Harley](https://github.com/nellarro/harley)
+- [Twitter](https://twitter.com/nellarro/status/816863403939692544)
+
+
+## Day 2: January 3, 2017
+#### Harley Quinn Photo Gallery (working title)
+
+**Today's Progress**:
+More design. Progress was a bit slower due to working on a FreeCodeCamp thing prior that gave me a brain fart.
+
+**Thoughts**:
+I am excited with its progress so far but I definitely need to put in more time.
+
+**Goals**:
+Get the landing page completely finished by tomorrow!
+
+
+**Link to work:**
+- [Harley](https://github.com/nellarro/harley)
 
 
 
@@ -34,59 +94,16 @@ Still need to work on a lot of design choices and then will implement TypeJS and
 - [Twitter Recap](https://twitter.com/nellarro/status/816084341390446592)
 
 
-## Day 2: January 3, 2017
-#### Harley Quinn Photo Gallery (working title)
 
-**Today's Progress**:
-More design. Progress was a bit slower due to working on a FreeCodeCamp thing prior that gave me a brain fart.
+## Day 0: January 1, 2017
+#### JavaScript Koans
 
-**Thoughts**:
-I am excited with its progress so far but I definitely need to put in more time.
+**Today's Progress**: Worked on FreeCodeCamp during the day until 5:09 and then took a break to do JavaScript Koans and time myself. 5 out of 8 completed by 6:20. 4 checked by Jasmine.
 
-**Goals**:
-Get the landing page completely finished by tomorrow!
+**Thoughts:** Pretty excited about how well I did. I remember when the entire koan took me about 5 hours. Positive things that I noticed- I understand arr.shift(), arr.unshift(), arr.pop(), and arr.push() a ton more than what I did before! Needs improvement: lexical scopaing and arr.slice().
 
+**Goals:** Make JavaScript Koans part of my weekly ritual. Each Sunday, I'll repeat koans from scratch and see if my time gets better and what things I understand more.
 
 **Link to work:**
-- [Harley](https://github.com/nellarro/harley)
-
-
-
-
-## Day 3: January 4, 2017
-#### Harley Quinn Photo Gallery (working title)
-
-**Today's Progress**:
-Finished the form as boring as I could make it! Added the bones of a motto at the bottom as a footer. More "styling".
-
-**Thoughts**:
-It is really taking EVERYTHING in me not to make the landing page look better. Right now it looks terrible (because it's meant to look like a low budget, couldn't care less, Arkham Asylum corporate log-in page). I'm pretty proud of it so far.
-
-**Goals**:
-Officially link in that Router to the submit button!
-
-**Link to work:**
-- [Harley](https://github.com/nellarro/harley)
-- [Twitter](https://twitter.com/nellarro/status/816863403939692544)
-
-
-
-
-## Day 4: January 5, 2017
-#### Harley Quinn Photo Gallery (working title)
-#### Jr_Dev_Resource (a twitterbot)
-
-
-**Today's Progress**:
-Tinkered with my twitterbot for a few minutes so that it could run while I was working on the Harley project. Added <code>react-router</code> *finally*. Added gradients to the top and bottom of landing page to make it look completely like an Arkham thing. Added more fonts. Set up component layouts for the rules of the game as well as the <code>App</code> component.
-
-**Thoughts**:
-Since it is only a layout, it looks kind of janky to the naked eye right now code-wise. Visually it looks like it's supposed to do. It even has a little note from Harley in the console which is pretty nifty.
-
-**Goals**:
-Completely implement <code>react-router</code> and wireframing the two next JS file.
-
-**Link to work:**
-- [Harley](https://github.com/nellarro/harley)
-- [bot](https://github.com/nellarro/twitterbot)
-- [Twitter post](https://twitter.com/nellarro/status/817235098642903042)
+- [JavaScript Koans Day 0](https://github.com/nellarro/javascript-koans)
+- [Twitter Recap](https://twitter.com/nellarro/status/815701265908895744)
