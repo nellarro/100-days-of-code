@@ -74,9 +74,10 @@ Officially link in that Router to the submit button!
 
 ## Day 4: January 5, 2017
 #### Harley Quinn Photo Gallery (working title)
+#### Jr_Dev_Resource (a twitterbot)
 
 **Today's Progress**:
-
+Tinkered with my twitterbot for a few minutes so that it could run while I was working on the Harley project. Added <code>react-router</code> *finally*.
 **Thoughts**:
 
 **Goals**:
