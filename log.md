@@ -73,8 +73,8 @@ Officially link in that Router to the submit button!
 
 
 ## Day 4: January 5, 2017
-- #### Harley Quinn Photo Gallery (working title)
-- #### Jr_Dev_Resource (a twitterbot)
+#### Harley Quinn Photo Gallery (working title)
+#### Jr_Dev_Resource (a twitterbot)
 
 
 **Today's Progress**:
