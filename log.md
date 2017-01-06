@@ -5,13 +5,13 @@
 
 
 **Today's Progress**:
-TBD
+Unfortunately not a lot. Got <code>react-router</code> *sort of* working. Can't figure out why my button won't take the link route or change in the address bar. 
 
 **Thoughts**:
-TBD
+A little frustrating but I'm excited to continue tackling it tomorrow after I get some [Free Code Camp](https://www.freecodecamp.com/challenges/check-for-palindromes) in!
 
 **Goals**:
-TBD
+Tackle this 100%.
 
 **Link to work:**
 - [Harley](https://github.com/nellarro/harley)
