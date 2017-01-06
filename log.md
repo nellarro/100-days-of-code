@@ -73,14 +73,20 @@ Officially link in that Router to the submit button!
 
 
 ## Day 4: January 5, 2017
-#### Harley Quinn Photo Gallery (working title)
-#### Jr_Dev_Resource (a twitterbot)
+- #### Harley Quinn Photo Gallery (working title)
+- #### Jr_Dev_Resource (a twitterbot)
+
 
 **Today's Progress**:
-Tinkered with my twitterbot for a few minutes so that it could run while I was working on the Harley project. Added <code>react-router</code> *finally*.
+Tinkered with my twitterbot for a few minutes so that it could run while I was working on the Harley project. Added <code>react-router</code> *finally*. Added gradients to the top and bottom of landing page to make it look completely like an Arkham thing. Added more fonts. Set up component layouts for the rules of the game as well as the <code>App</code> component.
+
 **Thoughts**:
+Since it is only a layout, it looks kind of janky to the naked eye right now code-wise. Visually it looks like it's supposed to do. It even has a little note from Harley in the console which is pretty nifty.
 
 **Goals**:
+Completely implement <code>react-router</code> and wireframing the two next JS file.
 
 **Link to work:**
 - [Harley](https://github.com/nellarro/harley)
+- [bot](https://github.com/nellarro/twitterbot)
+- [Twitter post](https://twitter.com/nellarro/status/817235098642903042)
