@@ -3,11 +3,15 @@
 ##Day 5: January 7, 2017
 #### Kiss N Makeup
 
+
 **Today's Progress**:
+Still working on it but wanted to make sure I got something in here. Read up on the new Firebase Docs to see if Twitter authentication would be easier (it's not). Tried to fix some of the log-in errors like profile images not coming up if it's Twitter (yep, shade at Twitter right now). Trying to fix that atm. Ran <code>npm outdated</code>. 
 
 **Thoughts**:
+Never will I ever eject from <code>create-react-app</code> for the sake of Sass when CSS now has variables. Also, webpack dashboard is cool and all but can't deal with the crashing when the page refreshes more than 10x. Also, it's hard to come back to a project that you haven't touched in a while and look at everything with fresh eyes. It's like: "Who wrote this and why does it look like that?! Why did you write that method there?! What's wrong with you?!" And then you realize that it was you and you do one of these ¯\_(ツ)_/¯. also <code>npm outdated</code> is a godsend!
 
 **Goals**: 
+Get images to show up. 
 
 **Link to work**:
 - [Code](https://github.com/nellarro/v2-kiss-n-makeup)
