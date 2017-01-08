@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+##Day 5: January 7, 2017
+#### Kiss N Makeup
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Goals**: 
+
+**Link to work**:
+- [Code](https://github.com/nellarro/v2-kiss-n-makeup)
+- [Kiss N Makeup live](https://nellarro.kiss-n-makeup.surge.sh)
+
 ## Day 5: January 6, 2017
 #### Harley Quinn Photo Gallery (working title)
 
