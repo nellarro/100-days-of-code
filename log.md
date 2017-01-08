@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-##Day 5: January 7, 2017
+##Day 6: January 7, 2017
 #### Kiss N Makeup
 
 
