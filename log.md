@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+##Day 7: January 8, 2017
+#### Kiss N Makeup & JavaScript Koans
+
+
+**Today's Progress**:
+Fixed the footer problem on User component and Single Pic component. Also fixed the image problem on Single Pic.  
+
+**Thoughts**:
+![](http://gph.is/13TGDOv)
+Nuff said.
+
+**Goals**: 
+Delete images. 
+
+**Link to work**:
+- [Code](https://github.com/nellarro/v2-kiss-n-makeup)
+- [Kiss N Makeup live](https://nellarro.kiss-n-makeup.surge.sh)
+
+
 ##Day 6: January 7, 2017
 #### Kiss N Makeup
 
