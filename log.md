@@ -8,7 +8,7 @@
 Fixed the footer problem on User component and Single Pic component. Also fixed the image problem on Single Pic.  
 
 **Thoughts**:
-![](http://gph.is/13TGDOv)
+![](http://giphy.com/gifs/LFphDKjQV17O0/html5)
 Nuff said.
 
 **Goals**: 
