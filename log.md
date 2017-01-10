@@ -12,7 +12,9 @@ Broke the images while trying to understand how to delete them from Firebase.
 Also, I went to sleep at 9:30pm. I woke up at 10pm because I freaked out that I hadn't committed anything on Github yet or posted anything. This is becoming **that** much of a habit now!
 
 **Goals**: 
-Delete images. Still. 
+Delete images. Still.
+Also eventually checkout and complete this Pokemon chatbot:
+- [Pokemon chatbot Tutorial (NodeJS)](https://chatbotsmagazine.com/a-nodejs-chatbot-tutorial-part-1-a2abd1b1c715#.e2gh5o2eh)
 
 **Link to work**:
 - [Code](https://github.com/nellarro/v2-kiss-n-makeup)
