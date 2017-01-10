@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+##Day 8: January 9, 2017
+#### Kiss N Makeup @ Open Code Orlando
+
+**Today's Progress**:
+Broke the images while trying to understand how to delete them from Firebase.   
+
+**Thoughts**:
+[Open Code Orlando](https://www.meetup.com/Open-Code-Orlando/events/236564561/) is an amazing place to get work done and to meet new people who are doing things that you wouldn't even think of doing. Got a lot of great ideas today about working with chatbots, Raspberry Pi, Alexa, and holy all the Firebase help I could need. 
+
+Also, I went to sleep at 9:30pm. I woke up at 10pm because I freaked out that I hadn't committed anything on Github yet or posted anything. This is becoming **that** much of a habit now!
+
+**Goals**: 
+Delete images. Still. 
+
+**Link to work**:
+- [Code](https://github.com/nellarro/v2-kiss-n-makeup)
+- [Kiss N Makeup live](https://nellarro.kiss-n-makeup.surge.sh)
+
+
 ##Day 7: January 8, 2017
 #### Kiss N Makeup & JavaScript Koans
 
