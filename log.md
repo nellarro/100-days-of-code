@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+##Day 9: January 10, 2017
+#### Soft Skills
+
+**Today's Progress**
+Practiced a lot of soft skills today and put some in action. ODevs meetup. Currently finishing up [this algorithm test](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) on Free Code Camp.
+
+**Thoughts**: I love meeting new people. I love learning about other people and their perspectives!
+
+**Goals**: Completely finish this algorithm, though. 
+
+**Links**: 
+- [Talk on Open Code](https://docs.google.com/presentation/d/1n92CP9eYAQ3HUDTkO8m103TUuWnEgrkqEN4qp-HkcGM/pub?start=true&loop=true&delayms=3000)
+
 ##Day 8: January 9, 2017
 #### Kiss N Makeup @ Open Code Orlando
 
