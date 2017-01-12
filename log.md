@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+##Day 10: January 11, 2017
+#### Linux, Portfolio, FCC
+
+**Today's Progress**:
+Completed the algorithm I was on on FCC. Successfully killed a process without having to Google it (finding the process was an hour long affair, however). Changed a font on my portfolio. Went to the CodePen meetup tonight. 
+
+**Thoughts**: I love React and <code>create-react-app</code> but sometimes, when I want to work outside of React and the project that I am in, I would like to not have to kill processess. Merp. But other than that it was fun playing CSI Jenell's computer! The CodePen meetup was super fun and I got to meet some wonderful people! The talks were great!
+
+**Goals**: Complete the next algorithm challenge by week's end. 
+
+**Links**: 
+- [CodePen Meetup](https://nvite.com/OrlandoCodePen/dbf2)
+- [Current Algorithm: Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
+
 ##Day 9: January 10, 2017
 #### Soft Skills
 
