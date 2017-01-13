@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+##Day 11: January 12, 2017
+#### ENKI
+
+**Today's Progress**:
+Did all of the Enki challenges and games that were assigned today (git, Linux, JavaScript, and CSS).  
+
+**Thoughts**: Honestly, a really great thing to do as a "day off" of coding while still coding. My brain isn't fried but I definitely learned a lot, 
+
+**Goals**: Get back in it tomorrow. 
+
+**Links**: 
+- [Enki](http://enkipro.com/)
+- ![screenshot1](jfdaklfjdaf)
+
+
 ##Day 10: January 11, 2017
 #### Linux, Portfolio, FCC
 
