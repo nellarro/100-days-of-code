@@ -12,7 +12,7 @@ Did all of the Enki challenges and games that were assigned today (git, Linux, J
 
 **Links**:
 - [Enki](http://enkipro.com/)
-- ![screenshot1](../images/enki-classes.PNG)
+- ![screenshot1](./images/enki-classes.PNG)
 
 
 ##Day 10: January 11, 2017
