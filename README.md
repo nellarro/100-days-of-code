@@ -6,26 +6,26 @@
 **Today's Progress**:
 Did all of the Enki challenges and games that were assigned today (git, Linux, JavaScript, and CSS).  
 
-**Thoughts**: Honestly, a really great thing to do as a "day off" of coding while still coding. My brain isn't fried but I definitely learned a lot, 
+**Thoughts**: Honestly, a really great thing to do as a "day off" of coding while still coding. My brain isn't fried but I definitely learned a lot,
 
-**Goals**: Get back in it tomorrow. 
+**Goals**: Get back in it tomorrow.
 
-**Links**: 
+**Links**:
 - [Enki](http://enkipro.com/)
-- ![screenshot1](jfdaklfjdaf)
+- ![screenshot1](./images/enki-classes.PNG)
 
 
 ##Day 10: January 11, 2017
 #### Linux, Portfolio, FCC
 
 **Today's Progress**:
-Completed the algorithm I was on on FCC. Successfully killed a process without having to Google it (finding the process was an hour long affair, however). Changed a font on my portfolio. Went to the CodePen meetup tonight. 
+Completed the algorithm I was on on FCC. Successfully killed a process without having to Google it (finding the process was an hour long affair, however). Changed a font on my portfolio. Went to the CodePen meetup tonight.
 
 **Thoughts**: I love React and <code>create-react-app</code> but sometimes, when I want to work outside of React and the project that I am in, I would like to not have to kill processess. Merp. But other than that it was fun playing CSI Jenell's computer! The CodePen meetup was super fun and I got to meet some wonderful people! The talks were great!
 
-**Goals**: Complete the next algorithm challenge by week's end. 
+**Goals**: Complete the next algorithm challenge by week's end.
 
-**Links**: 
+**Links**:
 - [CodePen Meetup](https://nvite.com/OrlandoCodePen/dbf2)
 - [Current Algorithm: Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
@@ -40,9 +40,9 @@ Practiced a lot of soft skills today and put some in action. ODevs meetup. Curre
 
 **Thoughts**: I love meeting new people. I love learning about other people and their perspectives!
 
-**Goals**: Completely finish this algorithm, though. 
+**Goals**: Completely finish this algorithm, though.
 
-**Links**: 
+**Links**:
 - [Talk on Open Code](https://docs.google.com/presentation/d/1n92CP9eYAQ3HUDTkO8m103TUuWnEgrkqEN4qp-HkcGM/pub?start=true&loop=true&delayms=3000)
 
 ##Day 8: January 9, 2017
@@ -52,11 +52,11 @@ Practiced a lot of soft skills today and put some in action. ODevs meetup. Curre
 Broke the images while trying to understand how to delete them from Firebase.   
 
 **Thoughts**:
-[Open Code Orlando](https://www.meetup.com/Open-Code-Orlando/events/236564561/) is an amazing place to get work done and to meet new people who are doing things that you wouldn't even think of doing. Got a lot of great ideas today about working with chatbots, Raspberry Pi, Alexa, and holy all the Firebase help I could need. 
+[Open Code Orlando](https://www.meetup.com/Open-Code-Orlando/events/236564561/) is an amazing place to get work done and to meet new people who are doing things that you wouldn't even think of doing. Got a lot of great ideas today about working with chatbots, Raspberry Pi, Alexa, and holy all the Firebase help I could need.
 
 Also, I went to sleep at 9:30pm. I woke up at 10pm because I freaked out that I hadn't committed anything on Github yet or posted anything. This is becoming **that** much of a habit now!
 
-**Goals**: 
+**Goals**:
 Delete images. Still.
 Also eventually checkout and complete this Pokemon chatbot:
 - [Pokemon chatbot Tutorial (NodeJS)](https://chatbotsmagazine.com/a-nodejs-chatbot-tutorial-part-1-a2abd1b1c715#.e2gh5o2eh)
@@ -79,8 +79,8 @@ Fixed the footer problem on User component and Single Pic component. Also fixed 
 
 Nuff said. :)
 
-**Goals**: 
-Delete images. 
+**Goals**:
+Delete images.
 
 **Link to work**:
 - [Code](https://github.com/nellarro/v2-kiss-n-makeup)
@@ -92,13 +92,13 @@ Delete images.
 
 
 **Today's Progress**:
-Still working on it but wanted to make sure I got something in here. Read up on the new Firebase Docs to see if Twitter authentication would be easier (it's not). Tried to fix some of the log-in errors like profile images not coming up if it's Twitter (yep, shade at Twitter right now). Trying to fix that atm. Ran <code>npm outdated</code>. 
+Still working on it but wanted to make sure I got something in here. Read up on the new Firebase Docs to see if Twitter authentication would be easier (it's not). Tried to fix some of the log-in errors like profile images not coming up if it's Twitter (yep, shade at Twitter right now). Trying to fix that atm. Ran <code>npm outdated</code>.
 
 **Thoughts**:
 Never will I ever eject from <code>create-react-app</code> for the sake of Sass when CSS now has variables. Also, webpack dashboard is cool and all but can't deal with the crashing when the page refreshes more than 10x. Also, it's hard to come back to a project that you haven't touched in a while and look at everything with fresh eyes. It's like: "Who wrote this and why does it look like that?! Why did you write that method there?! What's wrong with you?!" And then you realize that it was you and you do one of these ¯\_(ツ)_/¯. also <code>npm outdated</code> is a godsend!
 
-**Goals**: 
-Get images to show up. 
+**Goals**:
+Get images to show up.
 
 **Link to work**:
 - [Code](https://github.com/nellarro/v2-kiss-n-makeup)
@@ -109,7 +109,7 @@ Get images to show up.
 
 
 **Today's Progress**:
-Unfortunately not a lot. Got <code>react-router</code> *sort of* working. Can't figure out why my button won't take the link route or change in the address bar. 
+Unfortunately not a lot. Got <code>react-router</code> *sort of* working. Can't figure out why my button won't take the link route or change in the address bar.
 
 **Thoughts**:
 A little frustrating but I'm excited to continue tackling it tomorrow after I get some [Free Code Camp](https://www.freecodecamp.com/challenges/check-for-palindromes) in!
