@@ -1,12 +1,25 @@
 # 100 Days Of Code - Log
 
+##Day 12: January 13, 2017
+#### ENKI
+
+**Today's Progress**:
+Got photo gallery and Kiss N Makeup back online. FCC algorithm solved. Github was down in the morning.
+
+**Thoughts**: Got a lot of constructive criticism today.
+
+**Goals**: Work on more React projects to completion and push photo gallery to github.io.
+
+**Links**:
+- [FCC](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays)
+
 ##Day 11: January 12, 2017
 #### ENKI
 
 **Today's Progress**:
 Did all of the Enki challenges and games that were assigned today (git, Linux, JavaScript, and CSS).  
 
-**Thoughts**: Honestly, a really great thing to do as a "day off" of coding while still coding. My brain isn't fried but I definitely learned a lot,
+**Thoughts**: Honestly, a really great thing to do as a "day off" of coding while still coding. My brain isn't fried but I definitely learned a lot.
 
 **Goals**: Get back in it tomorrow.
 
