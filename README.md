@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+##Day 13: January 14, 2017
+#### ENKI
+
+**Today's Progress**:
+Photo-gallery is running a little better and published on github.io. **Five** FCC algorithms complete!
+
+**Thoughts**: Algorithms. Honestly, I just want to fix my React projects but the quest for knowledge keeps me awake all day and night. I'm trying to understand these algorithms, understand the test cases so that I can become a better developer in the end. 
+
+**Goals**: FIX. REACT. PROJECTS. ASAP.
+
+**Links**:
+- [Deployment through Github](https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089#.1cix6uu1b)
+- ["Title Case a Sentence (without using CSS)" Solution](https://www.freecodecamp.com/challenges/Title%20Case%20a%20Sentence?solution=%0Afunction%20titleCase(str)%20%7B%0A%20%20str%20%3D%20str.toLowerCase().split(%22%20%22)%3B%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20str.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20str%5Bi%5D%20%3D%20str%5Bi%5D.charAt(0).toUpperCase()%20%2B%20str%5Bi%5D.slice(1)%3B%0A%20%20%7D%0A%20%20return%20str.join(%27%20%27)%3B%0A%7D%0A%0AtitleCase(%22I%27m%20a%20little%20tea%20pot%22)%3B%0A)
+- ["Return Largest Number in Array" Solution](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays#?solution=%0Afunction%20largestOfFour(arr)%20%7B%0A%20%20%2F%2F%20You%20can%20do%20this!%0A%20%20return%20arr.map(function%20(secondArr)%20%7B%0A%20%20%20%20return%20Math.max.apply(null%2C%20secondArr)%20%2F%2F%20Math.max%20does%20not%20accept%20arrays%20as%20arguments%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20that%27s%20why%20you%20use%20.apply()%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20apply()%20sets%20the%201st%20argument%20as%20%27this%27%20which%20you%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20do%20NOT%20want%20so%20you%20set%20as%20%27null%27%0A%20%20%7D)%0A%7D%0A%0AlargestOfFour(%5B%5B4%2C%205%2C%201%2C%203%5D%2C%20%5B13%2C%2027%2C%2018%2C%2026%5D%2C%20%5B32%2C%2035%2C%2037%2C%2039%5D%2C%20%5B1000%2C%201001%2C%20857%2C%201%5D%5D)%3B%0A)
+- ["Confirm Ending" Solution](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20if%20(str.substring(str.length%20-%201)%20%3D%3D%20target)%20%7B%0A%20%20%20%20return%20true%0A%20%20%7D%20else%20if%20(str.substring(str.length%20-4)%20%3D%3D%20target)%20%7B%0A%20%20%20%20return%20true%0A%20%20%7D%20else%20%7B%0A%20%20%20%20return%20false%0A%20%20%7D%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A%0A)
+- ["Repeat a String" Solution](https://www.freecodecamp.com/challenges/Repeat%20a%20string%20repeat%20a%20string?solution=%0Afunction%20repeatStringNumTimes(str%2C%20num)%20%7B%0A%20%20%2F%2F%20repeat%20after%20me%0A%20%20if%20(num%20%3E%200)%20%7B%0A%20%20return%20str.repeat(num)%3B%0A%20%20%7D%20else%20%7B%0A%20%20%20%20return%20%22%22%0A%20%20%7D%0A%7D%0A%0ArepeatStringNumTimes(%22abc%22%2C%203)%3B%0A)
+- ["Truncate a String" Solution](https://www.freecodecamp.com/challenges/Truncate%20a%20string?solution=%0Afunction%20truncateString(str%2C%20num)%20%7B%0A%20%20%2F%2F%20Clear%20out%20that%20junk%20in%20your%20trunk%0A%20%20%2F%2F%20shorten%20a%20string(str)%20if%20it%20is%20longer%20than%20the%20given%20maximum%20string%20length(num)%0A%20%20%2F%2F%20return%20string%20with%20...%20ending%20%0A%20%20if%20(str.length%20%3E%20num%20%26%26%20num%20%3E%203)%20%7B%0A%20%20%20%20str%20%3D%20str.substring(0%2C%20num-3)%20%2B%20%22...%22%0A%20%20%7D%20else%20if%20(str.length%20%3E%20num)%20%7B%0A%20%20%20%20str%20%3D%20str.substring(0%2C%20num)%20%2B%20%22...%22%0A%20%20%7D%0A%20%20return%20str%3B%0A%7D%0A%0A%2F%2F%20%0A%0AtruncateString(%22A-%22%2C%201)%3B%0A)
+
 ##Day 12: January 13, 2017
 #### ENKI
 
