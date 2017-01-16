@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+##Day 14: January 15, 2017
+#### Kiss N Makeup
+
+**Today's Progress**: Eliminated console and warning errors by using the key attribute.
+
+**Thoughts**: First time writing my log on my phone. Writing down what you did for the day on a phone is a bit more complicated than what I initially perceived. Do they make Github for phones? Also met with some FCC peeps over Google Hangouts.
+
+**Goals**: Continue making progress on KNM. Maybe add an instruction page. But also compress the initial loading image.
+
+**Links**:
+- [KNM Github](github.com/nellarro/kiss-n-makeup)
+
+
 ##Day 13: January 14, 2017
 #### ENKI
 
