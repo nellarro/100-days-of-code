@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+##Day 15: January 16, 2017
+#### Kiss N Makeup
+
+**Today's Progress**: Optimized the larger images in Kiss N Makeup. Got rid of the garish lemonaded background in root. 
+
+**Thoughts**: Loading a bit faster. ImageOptim is pretty great. Still not loading as quickly as I would like for it to load. Maybe a loading spiral would be good? Or mayhaps load the background image first before anything (maybe, dare I say, in-line style?).
+
+**Goals**: Move the kiss and makeup tagline underneath the name of the app on the Landing component. Replace with either a how-to box of instructions as well as create a form for the sign in screen.  
+
+**Links**:
+- [KNM Github](github.com/nellarro/kiss-n-makeup)
+
 ##Day 14: January 15, 2017
 #### Kiss N Makeup
 
