@@ -30,7 +30,7 @@ Learned that finding every possible variable is called overfitted and should be 
 
 **Today's Progress**: Onboarded. 
 
-**Thoughts**: ![So So So So So Happy](http://gph.is/VwXrUP)
+**Thoughts**: ![So So So So So Happy](http://i.giphy.com/WPrTdDlgWqjcY.gif)
 
 **Goals**: Continue learning and growing so I can be the best developer I can be each day.   
 
