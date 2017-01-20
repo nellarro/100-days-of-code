@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+##Day 18: January 19, 2017
+#### Code for Orlando, Conversational UX, IoT Open Code mashup meeting 
+
+**Today's Progress**: Created a Trello list of things to do for the IoT and Open Code mashup. Started the flow chart of potential conversations with a chatbot. Went to my first Code for Orlando Meetup. 
+
+**Thoughts**: Saw a project get started from ground roots with other people. That was pretty cool. I also saw that there is a huge opportunity for people to come to Winter Park for meetups. That's a really nifty thing to know. Maybe more meetups will happen in Winter Park -- land of mostly free parking and no traffic. 
+
+IoT and Open Code dual meetup is going to be great. We're thinking of getting IoT hardware that gets used for workshops frequently. It would be great to have a meetup one week and then a week later, people get to actually build what they learned about! 
+
+Learned that finding every possible variable is called overfitted and should be avoided at all costs.  
+
+**Goals**: Jump onboard the UX team with the road closures project. Continue working with Jared about IoT things.
+
+**Links**: [Road Closures Repo](https://github.com/cforlando/road-closures-ux)
+
+##Day 17: January 18, 2017
+#### Conversational UX 
+
+**Today's Progress**: Talked to three potential users as a chatbot and figured out how they would use the SMS shortcode feature.  
+
+**Thoughts**: Very enlightening but I feel like I'm trying to find *every* variable there is in the planet for each user. 
+
+**Goals**: Complete the assignment by the end of the week.   
+
+
+##Day 16: January 17, 2017
+#### Skillcrush Onboarding, FCC
+
+**Today's Progress**: Onboarded. 
+
+**Thoughts**: ![So So So So So Happy](http://gph.is/VwXrUP)
+
+**Goals**: Continue learning and growing so I can be the best developer I can be each day.   
+
+
 ##Day 15: January 16, 2017
 #### Kiss N Makeup
 
