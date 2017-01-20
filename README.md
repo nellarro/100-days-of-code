@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+##Day 19: January 20, 2017
+#### Conversational UX
+
+**Today's Progress**: Completed the thought exercises for the conversational UX role!
+
+**Thoughts**: Incredibly challenging. Holy world of warcraft! I didn't realize all the research it took to be a UX anything. It's a lot of asking tons of questions about things you have no idea about so you can put yourself in the user's shoes. It's pretty cool. And, if I get the role, I'd still be able to code with SuperScriptJS!
+
+**Goals**: Job! But for tomorrow, it's get back on board with React stuff and Kiss N Makeup.
+
+
 ##Day 18: January 19, 2017
 #### Code for Orlando, Conversational UX, IoT Open Code mashup meeting 
 
