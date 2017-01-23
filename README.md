@@ -11,8 +11,8 @@ Also, bear.
 
 **Goals**: Not fail at planning. Also continue with this bear. 
 
-**Links**: [Bear](https://codepen.io/nellarro/pen/QdpeOW)
-![Bear](./images/bear.png)
+**Links**: - [Bear](https://codepen.io/nellarro/pen/QdpeOW)
+- ![Bear](./images/bear.png)
 
 
 ##Day 20: January 21, 2017
