@@ -1,6 +1,31 @@
 # 100 Days Of Code - Log
 
 
+##Day 21: January 22, 2017
+#### CodePen & Open Code Career Advice
+
+**Today's Progress**: Officially have 7 mentors that are willing to critique and help out junior devs at Open Code!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Also, bear.  
+
+**Thoughts**: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Mentors !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+**Goals**: Not fail at planning. Also continue with this bear. 
+
+**Links**: (Bear)[https://codepen.io/nellarro/pen/QdpeOW]
+
+
+##Day 20: January 21, 2017
+#### CodePen & Open Code Career Advice Ideas
+
+**Today's Progress**: Came up with great ways to help out the junior developer community with Open Code. Also started doing the Daily CSS challenges. 
+
+**Thoughts**: Read something on the ODevs Slack channel that completely impacted me. I have felt the same way at times before and understood the plight she is going through. I also have interviewed other junior developers in the area and they feel at a loss as well. I want to help in any way possible. See a need fill a need. 
+
+**Goals**: Get the career meetup up and ready for junior devs. Also, make this bear not look like just sad and ogly. 
+
+**Links**: (Bear)[https://codepen.io/nellarro/pen/QdpeOW]
+
+
 ##Day 19: January 20, 2017
 #### Conversational UX
 
