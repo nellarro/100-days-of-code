@@ -12,7 +12,7 @@ Also, bear.
 **Goals**: Not fail at planning. Also continue with this bear. 
 
 **Links**: [Bear](https://codepen.io/nellarro/pen/QdpeOW)
-![Bear](100DaysOfCode/images/Screen Shot 2017-01-22 at 10.18.08 PM.png)
+![Bear](./images/bear.png)
 
 
 ##Day 20: January 21, 2017
