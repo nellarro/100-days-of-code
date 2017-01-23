@@ -11,7 +11,8 @@ Also, bear.
 
 **Goals**: Not fail at planning. Also continue with this bear. 
 
-**Links**: (Bear)[https://codepen.io/nellarro/pen/QdpeOW]
+**Links**: [Bear](https://codepen.io/nellarro/pen/QdpeOW)
+![Bear](100DaysOfCode/images/Screen Shot 2017-01-22 at 10.18.08 PM.png)
 
 
 ##Day 20: January 21, 2017
@@ -23,7 +24,7 @@ Also, bear.
 
 **Goals**: Get the career meetup up and ready for junior devs. Also, make this bear not look like just sad and ogly. 
 
-**Links**: (Bear)[https://codepen.io/nellarro/pen/QdpeOW]
+**Links**: [Bear](https://codepen.io/nellarro/pen/QdpeOW)
 
 
 ##Day 19: January 20, 2017
