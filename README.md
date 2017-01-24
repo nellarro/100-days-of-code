@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+##Day 22: January 23, 2017
+#### CodePen & Skillcrush
+
+**Today's Progress**: Finished the bear!  
+
+**Thoughts**: This was actually really fun. I thought I wouldn't be able to do this at all but it seems like I'm actually not too terrible at making things with CSS. I can JavaScript **AND** CSS. Whodathunk?
+
+**Goals**: Get started with Wonderwoman Beaver tomorrow!
+
+**Links**: - [Bear](https://codepen.io/nellarro/pen/QdpeOW)
+- ![Bear]()
+
 
 ##Day 21: January 22, 2017
 #### CodePen & Open Code Career Advice
