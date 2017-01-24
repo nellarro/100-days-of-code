@@ -10,7 +10,7 @@
 **Goals**: Get started with Wonderwoman Beaver tomorrow!
 
 **Links**: - [Bear](https://codepen.io/nellarro/pen/QdpeOW)
-- ![Bear]()
+- ![Bear](./images/bear-done.png)
 
 
 ##Day 21: January 22, 2017
