@@ -11,7 +11,6 @@
 **Goals**: Figure out how to add the ear to the rock to make it start looking like an elephant or start from scratch by actually following the sketch. 
 
 **Links**:
-![A rock](./images/rock.png)
 [Live Rock](http://codepen.io/nellarro/pen/qRXayR)
 
 
