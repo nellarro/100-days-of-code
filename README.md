@@ -1,4 +1,20 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 
+
+
+##Day 23: January 24, 2017
+#### CodePen Elephant
+
+**Today's Progress**: I started making the elephant. There are ears, toes, a pupil, an eye, and legs.   
+
+**Thoughts**: Ummm I think I made a rock with legs? Also, I decided to not look at my sketch beforehand because I thought, "This is only going to be circles and a couple of squares. It'll be fine." I was wrong. Terribly, terribly wrong. Probably the worst idea I've ever had. I've got an ear in the code but it's not wanting to work with me. I got CSS'd.
+
+**Goals**: Figure out how to add the ear to the rock to make it start looking like an elephant or start from scratch by actually following the sketch. 
+
+**Links**:
+- ![A rock](./images/rock.png)
+-[Live Rock](http://codepen.io/nellarro/pen/qRXayR)
+
+
 
 ##Day 22: January 23, 2017
 #### CodePen & Skillcrush
