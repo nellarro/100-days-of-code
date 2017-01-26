@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log 
 
+##Day 24: January 25, 2017
+#### CSS Loaders
+
+**Today's Progress**: Two CSS loaders with the help and tutelage of David Khoursid.    
+
+**Thoughts**: These are pretty nifty and I'm definitely going to be using them in my projects for the future. I really want to add canvas elements to the rotating circles loader to make it look like a handful of balloons flying away and then coming back together. 
+
+**Goals**: Get started on that elephant again. 
+
+**Links**:
+- [Jumping Marbles](https://codepen.io/nellarro/pen/ygoqdx)
+- [Rotating Circles](https://codepen.io/nellarro/pen/zNdJaG)
+
 
 ##Day 23: January 24, 2017
 #### CodePen Elephant
