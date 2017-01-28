@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log 
 
 ##Day 26: January 27, 2017
-#### Child's Play
+#### CSS Loaders in KNM & Child's Play
 
-**Today's Progress**: Created a repository. Began wireframing.  
+**Today's Progress**: Created a repository. Began wireframing. Attempted to add custom CSS loaders to projects.  
 
-**Thoughts**: Really excited about this project! Don't want to reveal too much before code is officially commited to Github but I really like the idea of it thus far. 
+**Thoughts**: Really excited about this project! Don't want to reveal too much before code is officially commited to Github but I really like the idea of it thus far. Can't figure out how to incorporate CSS loaders to React projects. 
 
-**Goals**: Incorporate Bootstrap. 
+**Goals**: Incorporate Bootstrap. Get the CSS loaders in a couple of projects. 
 
 
 ##Day 25: January 26, 2017
