@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log 
 
+##Day 26: January 27, 2017
+#### Child's Play
+
+**Today's Progress**: Created a repository. Began wireframing.  
+
+**Thoughts**: Really excited about this project! Don't want to reveal too much before code is officially commited to Github but I really like the idea of it thus far. 
+
+**Goals**: Incorporate Bootstrap. 
+
+
+##Day 25: January 26, 2017
+#### Skillcrush HTML and Interviews
+
+**Today's Progress**: Skillcrush courses. 
+
+**Thoughts**: Adding waaaaayyy to much CSS3 situations even though they aren't asking for it yet. Never miss a chance to practice. 
+
+**Goals**: Get started on that elephant again. 
+
+
 ##Day 24: January 25, 2017
 #### CSS Loaders
 
