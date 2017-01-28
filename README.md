@@ -9,6 +9,8 @@
 
 **Goals**: Incorporate Bootstrap. Get the CSS loaders in a couple of projects. 
 
+**UPDATE 11:47pm**: I'VE GOT THE CSS LOADER IMPLEMENTED IN THE KNM PROJECT!!!! WOOOOOT!!!!! CSS loaders are funky in React projects. In the root <index.html>, you have to convert any SCSS over to regular CSS. Since I made the loader on CodePen, CodePen can actually compile it for you (which is super nifty) instead of using <code>node-sass</code>. I had to do inline styles in the root of the project. Once it refreshed, it snapped into mobile mode (because the loader body had <code>display: flex;</code> on it. Had to get back into the CSS for the App component and revert the body to standard <code>display: block</code> and voila! 
+
 
 ##Day 25: January 26, 2017
 #### Skillcrush HTML and Interviews
