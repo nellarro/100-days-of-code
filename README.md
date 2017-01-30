@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log 
 
+##Day 28: January 29, 2017
+#### CSS Elephant and CSS Tiger
+
+**Today's Progress**: Tried to remake the elephant in CSS from the back. Decided to start the CSS Tiger after 2 hours after Elephant. 
+
+**Thoughts**: That didn't work so well. I really think that I just need to figure out how the rock one looks and continue building on that. As far as the ears on the tiger, they look pretty good so far!
+
+**Link**: [Tiger Beginnings](https://codepen.io/nellarro/pen/GryoXN)
+
+##Day 27: January 28, 2017
+#### Kiss N Makeup
+
+**Today's Progress**: Removed extra images that were causing lag.  
+
+**Thoughts**: Less lag but now the app is going much faster. So much so that the loader isn't having too much time showing. I really have do a load event to hold off until the app completely loads. 
+
+**Goals**: Load event.
+
+
 ##Day 26: January 27, 2017
 #### CSS Loaders in KNM & Child's Play
 
