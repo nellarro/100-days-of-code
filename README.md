@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log 
 
+##Day 29: January 30, 2017
+#### CSS Tiger
+
+**Today's Progress**: Made updates on the tiger. Now has whiskers and 3 stripes. Will need to more black stripes and 4 white stripes. 
+
+**Thoughts**: Spent the better part of today doing some Redux tutorials (but those don't count so I can't put them here as proof that I actually coded for the day so I worked on CSS Tiger). I think when you're learning how to use CSS, initally you're like, "Woah, CSS is hard." Then you use CSS everyday in your life and you say, "Pshh. CSS is easy." CSS can kick your butt too. 
+
+I had issues with the tiger today. When I wanted to implement a new characteristic, the **entire** face would fall apart and I would have to re-do it. In hindsight, I should have probably made a div that was the face on top of the head but right now, it is what it is. It looks pretty decent for not being finished. 
+
+**Link**: [!Tiger Middles](./images/tiger-1-30.png)
+
+
 ##Day 28: January 29, 2017
 #### CSS Elephant and CSS Tiger
 
