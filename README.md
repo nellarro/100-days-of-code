@@ -9,7 +9,7 @@
 
 I had issues with the tiger today. When I wanted to implement a new characteristic, the **entire** face would fall apart and I would have to re-do it. In hindsight, I should have probably made a div that was the face on top of the head but right now, it is what it is. It looks pretty decent for not being finished. 
 
-**Link**: [!Tiger Middles](./images/tiger-1-30.png)
+**Link**: ![Tiger Middles](./images/tiger-1-30.png)
 
 
 ##Day 28: January 29, 2017
