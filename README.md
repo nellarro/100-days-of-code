@@ -1,13 +1,26 @@
-# 100 Days Of Code - Log 
+# 100 Days Of Code - Log
+
+
+##Day 30: January 31, 2017
+#### CSS Tiger
+
+**Today's Progress**: Finished the CSS tiger.
+
+**Thoughts**: Overall, I'm pretty happy about what the tiger looks like. I wish I could have made the border radius on the stripes look a little cleaner. I think I will get that with time. I also don't really enjoy how much code it took to make it because I'm sure I could have done it in less code in Sass.
+
+Planning is pivotal to the success of these kinds of projects.
+
+**Link**: ![Tiger Finished](./images/tiger-finished.png)
+[Tiger on CodePen](https://codepen.io/nellarro/pen/apEKeB?editors=0100)
 
 ##Day 29: January 30, 2017
 #### CSS Tiger
 
-**Today's Progress**: Made updates on the tiger. Now has whiskers and 3 stripes. Will need to more black stripes and 4 white stripes. 
+**Today's Progress**: Made updates on the tiger. Now has whiskers and 3 stripes. Will need to more black stripes and 4 white stripes.
 
-**Thoughts**: Spent the better part of today doing some Redux tutorials (but those don't count so I can't put them here as proof that I actually coded for the day so I worked on CSS Tiger). I think when you're learning how to use CSS, initally you're like, "Woah, CSS is hard." Then you use CSS everyday in your life and you say, "Pshh. CSS is easy." CSS can kick your butt too. 
+**Thoughts**: Spent the better part of today doing some Redux tutorials (but those don't count so I can't put them here as proof that I actually coded for the day so I worked on CSS Tiger). I think when you're learning how to use CSS, initally you're like, "Woah, CSS is hard." Then you use CSS everyday in your life and you say, "Pshh. CSS is easy." CSS can kick your butt too.
 
-I had issues with the tiger today. When I wanted to implement a new characteristic, the **entire** face would fall apart and I would have to re-do it. In hindsight, I should have probably made a div that was the face on top of the head but right now, it is what it is. It looks pretty decent for not being finished. 
+I had issues with the tiger today. When I wanted to implement a new characteristic, the **entire** face would fall apart and I would have to re-do it. In hindsight, I should have probably made a div that was the face on top of the head but right now, it is what it is. It looks pretty decent for not being finished.
 
 **Link**: [Tiger Middles](./images/tiger-1-30.png)
 
@@ -15,7 +28,7 @@ I had issues with the tiger today. When I wanted to implement a new characterist
 ##Day 28: January 29, 2017
 #### CSS Elephant and CSS Tiger
 
-**Today's Progress**: Tried to remake the elephant in CSS from the back. Decided to start the CSS Tiger after 2 hours after Elephant. 
+**Today's Progress**: Tried to remake the elephant in CSS from the back. Decided to start the CSS Tiger after 2 hours after Elephant.
 
 **Thoughts**: That didn't work so well. I really think that I just need to figure out how the rock one looks and continue building on that. As far as the ears on the tiger, they look pretty good so far!
 
@@ -26,7 +39,7 @@ I had issues with the tiger today. When I wanted to implement a new characterist
 
 **Today's Progress**: Removed extra images that were causing lag.  
 
-**Thoughts**: Less lag but now the app is going much faster. So much so that the loader isn't having too much time showing. I really have do a load event to hold off until the app completely loads. 
+**Thoughts**: Less lag but now the app is going much faster. So much so that the loader isn't having too much time showing. I really have do a load event to hold off until the app completely loads.
 
 **Goals**: Load event.
 
@@ -36,21 +49,21 @@ I had issues with the tiger today. When I wanted to implement a new characterist
 
 **Today's Progress**: Created a repository. Began wireframing. Attempted to add custom CSS loaders to projects.  
 
-**Thoughts**: Really excited about this project! Don't want to reveal too much before code is officially commited to Github but I really like the idea of it thus far. Can't figure out how to incorporate CSS loaders to React projects. 
+**Thoughts**: Really excited about this project! Don't want to reveal too much before code is officially commited to Github but I really like the idea of it thus far. Can't figure out how to incorporate CSS loaders to React projects.
 
-**Goals**: Incorporate Bootstrap. Get the CSS loaders in a couple of projects. 
+**Goals**: Incorporate Bootstrap. Get the CSS loaders in a couple of projects.
 
-**UPDATE 11:47pm**: I'VE GOT THE CSS LOADER IMPLEMENTED IN THE KNM PROJECT!!!! WOOOOOT!!!!! CSS loaders are funky in React projects. In the root <index.html>, you have to convert any SCSS over to regular CSS. Since I made the loader on CodePen, CodePen can actually compile it for you (which is super nifty) instead of using <code>node-sass</code>. I had to do inline styles in the root of the project. Once it refreshed, it snapped into mobile mode (because the loader body had <code>display: flex;</code> on it. Had to get back into the CSS for the App component and revert the body to standard <code>display: block</code> and voila! 
+**UPDATE 11:47pm**: I'VE GOT THE CSS LOADER IMPLEMENTED IN THE KNM PROJECT!!!! WOOOOOT!!!!! CSS loaders are funky in React projects. In the root <index.html>, you have to convert any SCSS over to regular CSS. Since I made the loader on CodePen, CodePen can actually compile it for you (which is super nifty) instead of using <code>node-sass</code>. I had to do inline styles in the root of the project. Once it refreshed, it snapped into mobile mode (because the loader body had <code>display: flex;</code> on it. Had to get back into the CSS for the App component and revert the body to standard <code>display: block</code> and voila!
 
 
 ##Day 25: January 26, 2017
 #### Skillcrush HTML and Interviews
 
-**Today's Progress**: Skillcrush courses. 
+**Today's Progress**: Skillcrush courses.
 
-**Thoughts**: Adding waaaaayyy to much CSS3 situations even though they aren't asking for it yet. Never miss a chance to practice. 
+**Thoughts**: Adding waaaaayyy to much CSS3 situations even though they aren't asking for it yet. Never miss a chance to practice.
 
-**Goals**: Get started on that elephant again. 
+**Goals**: Get started on that elephant again.
 
 
 ##Day 24: January 25, 2017
@@ -58,9 +71,9 @@ I had issues with the tiger today. When I wanted to implement a new characterist
 
 **Today's Progress**: Two CSS loaders with the help and tutelage of David Khoursid.    
 
-**Thoughts**: These are pretty nifty and I'm definitely going to be using them in my projects for the future. I really want to add canvas elements to the rotating circles loader to make it look like a handful of balloons flying away and then coming back together. 
+**Thoughts**: These are pretty nifty and I'm definitely going to be using them in my projects for the future. I really want to add canvas elements to the rotating circles loader to make it look like a handful of balloons flying away and then coming back together.
 
-**Goals**: Get started on that elephant again. 
+**Goals**: Get started on that elephant again.
 
 **Links**:
 - [Jumping Marbles](https://codepen.io/nellarro/pen/ygoqdx)
@@ -74,7 +87,7 @@ I had issues with the tiger today. When I wanted to implement a new characterist
 
 **Thoughts**: Ummm I think I made a rock with legs? Also, I decided to not look at my sketch beforehand because I thought, "This is only going to be circles and a couple of squares. It'll be fine." I was wrong. Terribly, terribly wrong. Probably the worst idea I've ever had. I've got an ear in the code but it's not wanting to work with me. I got CSS'd.
 
-**Goals**: Figure out how to add the ear to the rock to make it start looking like an elephant or start from scratch by actually following the sketch. 
+**Goals**: Figure out how to add the ear to the rock to make it start looking like an elephant or start from scratch by actually following the sketch.
 
 **Links**:
 [Live Rock](http://codepen.io/nellarro/pen/qRXayR)
@@ -102,7 +115,7 @@ Also, bear.
 
 **Thoughts**: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Mentors !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-**Goals**: Not fail at planning. Also continue with this bear. 
+**Goals**: Not fail at planning. Also continue with this bear.
 
 **Links**: - [Bear](https://codepen.io/nellarro/pen/QdpeOW)
 - ![Bear](./images/bear.png)
@@ -111,11 +124,11 @@ Also, bear.
 ##Day 20: January 21, 2017
 #### CodePen & Open Code Career Advice Ideas
 
-**Today's Progress**: Came up with great ways to help out the junior developer community with Open Code. Also started doing the Daily CSS challenges. 
+**Today's Progress**: Came up with great ways to help out the junior developer community with Open Code. Also started doing the Daily CSS challenges.
 
-**Thoughts**: Read something on the ODevs Slack channel that completely impacted me. I have felt the same way at times before and understood the plight she is going through. I also have interviewed other junior developers in the area and they feel at a loss as well. I want to help in any way possible. See a need fill a need. 
+**Thoughts**: Read something on the ODevs Slack channel that completely impacted me. I have felt the same way at times before and understood the plight she is going through. I also have interviewed other junior developers in the area and they feel at a loss as well. I want to help in any way possible. See a need fill a need.
 
-**Goals**: Get the career meetup up and ready for junior devs. Also, make this bear not look like just sad and ogly. 
+**Goals**: Get the career meetup up and ready for junior devs. Also, make this bear not look like just sad and ogly.
 
 **Links**: [Bear](https://codepen.io/nellarro/pen/QdpeOW)
 
@@ -131,13 +144,13 @@ Also, bear.
 
 
 ##Day 18: January 19, 2017
-#### Code for Orlando, Conversational UX, IoT Open Code mashup meeting 
+#### Code for Orlando, Conversational UX, IoT Open Code mashup meeting
 
-**Today's Progress**: Created a Trello list of things to do for the IoT and Open Code mashup. Started the flow chart of potential conversations with a chatbot. Went to my first Code for Orlando Meetup. 
+**Today's Progress**: Created a Trello list of things to do for the IoT and Open Code mashup. Started the flow chart of potential conversations with a chatbot. Went to my first Code for Orlando Meetup.
 
-**Thoughts**: Saw a project get started from ground roots with other people. That was pretty cool. I also saw that there is a huge opportunity for people to come to Winter Park for meetups. That's a really nifty thing to know. Maybe more meetups will happen in Winter Park -- land of mostly free parking and no traffic. 
+**Thoughts**: Saw a project get started from ground roots with other people. That was pretty cool. I also saw that there is a huge opportunity for people to come to Winter Park for meetups. That's a really nifty thing to know. Maybe more meetups will happen in Winter Park -- land of mostly free parking and no traffic.
 
-IoT and Open Code dual meetup is going to be great. We're thinking of getting IoT hardware that gets used for workshops frequently. It would be great to have a meetup one week and then a week later, people get to actually build what they learned about! 
+IoT and Open Code dual meetup is going to be great. We're thinking of getting IoT hardware that gets used for workshops frequently. It would be great to have a meetup one week and then a week later, people get to actually build what they learned about!
 
 Learned that finding every possible variable is called overfitted and should be avoided at all costs.  
 
@@ -146,11 +159,11 @@ Learned that finding every possible variable is called overfitted and should be 
 **Links**: [Road Closures Repo](https://github.com/cforlando/road-closures-ux)
 
 ##Day 17: January 18, 2017
-#### Conversational UX 
+#### Conversational UX
 
 **Today's Progress**: Talked to three potential users as a chatbot and figured out how they would use the SMS shortcode feature.  
 
-**Thoughts**: Very enlightening but I feel like I'm trying to find *every* variable there is in the planet for each user. 
+**Thoughts**: Very enlightening but I feel like I'm trying to find *every* variable there is in the planet for each user.
 
 **Goals**: Complete the assignment by the end of the week.   
 
@@ -158,9 +171,9 @@ Learned that finding every possible variable is called overfitted and should be 
 ##Day 16: January 17, 2017
 #### Skillcrush Onboarding, FCC
 
-**Today's Progress**: Onboarded. 
+**Today's Progress**: Onboarded.
 
-**Thoughts**: 
+**Thoughts**:
 
 ![So So So So So Happy](http://i.giphy.com/WPrTdDlgWqjcY.gif)
 
@@ -170,7 +183,7 @@ Learned that finding every possible variable is called overfitted and should be 
 ##Day 15: January 16, 2017
 #### Kiss N Makeup
 
-**Today's Progress**: Optimized the larger images in Kiss N Makeup. Got rid of the garish lemonaded background in root. 
+**Today's Progress**: Optimized the larger images in Kiss N Makeup. Got rid of the garish lemonaded background in root.
 
 **Thoughts**: Loading a bit faster. ImageOptim is pretty great. Still not loading as quickly as I would like for it to load. Maybe a loading spiral would be good? Or mayhaps load the background image first before anything (maybe, dare I say, in-line style?).
 
@@ -198,7 +211,7 @@ Learned that finding every possible variable is called overfitted and should be 
 **Today's Progress**:
 Photo-gallery is running a little better and published on github.io. **Five** FCC algorithms complete!
 
-**Thoughts**: Algorithms. Honestly, I just want to fix my React projects but the quest for knowledge keeps me awake all day and night. I'm trying to understand these algorithms, understand the test cases so that I can become a better developer in the end. 
+**Thoughts**: Algorithms. Honestly, I just want to fix my React projects but the quest for knowledge keeps me awake all day and night. I'm trying to understand these algorithms, understand the test cases so that I can become a better developer in the end.
 
 **Goals**: FIX. REACT. PROJECTS. ASAP.
 
