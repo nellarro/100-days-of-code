@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+##Day 32: February 7, 2017
+#### CodeSchool and Angular
+
+**Today's Progress** I mean, directives?
+
+**Thoughts**: Found a lot of bugs in CodeSchool's AngularJS course. Like legit, wouldn't let me pass a module even when the answer was super correct (how did I know it was correct, because I made it give me the answer after I'd hit submit 15x). I learned a bit but I really would have liked to have continued to build something other than a To-Do list. I heard a puppy dies every time someone does a To-Do list as a "learn-to-do-this-thing" app.
+
+**Links**: Eh. 
+
+##Day 31: February 6, 2017
+#### Open Code: Career Advice
+
+**Today's Progress**: Recap.
+
+**Thoughts**: Took a few days off so that I could completely immerse myself in helping junior devs in my community get job-ready. There aren't a lot of helpful workshops for junior devs in Orlando (even with two big name bootcamps) to get career advice and learn how to nail those interviews, have gorgeous portfolios, and have clean resumes. 
+
+A ton of really great senior developers, recruiters, and HR reps came to help out the Orlando junior dev community. They gave excellent feedback to all the junior devs that came out and a lot of them said they learned a lot about interviewing another person! It was wonderful to see the senior dev community reach out! 
+
+Shout out to Michael Dupont, Cassie Wilcox, Erin Denton, Casey Faist, Sergio Cruz, Alex Denton, David Khoursid, Jared Porcenaluk, Brian Gates, Austin Musice & Amelia (from Highwinds), Katie Watson & David & Louis (from Kaviliro) for providing your time and mentorship capabilities. <3
+
+**Links**:
+- [Why the Pause](https://medium.com/@nellarro/why-i-took-4-days-off-of-100daysofcode-fb588772d03c#.z5i5z7h3y)
+- [Open Code: Career Workshop](https://www.meetup.com/Open-Code-Orlando/events/237125903/)
+
 
 ##Day 30: January 31, 2017
 #### CSS Tiger
