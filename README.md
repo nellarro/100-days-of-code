@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+##Day 33: February 8, 2017
+#### Postcards for Devs and Aliases
+
+**Today's Progress** Added 3 new git aliases. Configured yeoman to eject from create-react-app. 
+
+**Thoughts**: Might make another "Postcards for Devs" in both Angular and create-react-app just for the heck of it. TODO: Decide whether or not to make the postcard from an image or from CSS (might do it in CSS with Angular just to shake up the skillz a bit). 
+
+**Links**:![Postcard](https://mdn.mozillademos.org/files/4151/background.jpg)
+
 ##Day 32: February 7, 2017
 #### CodeSchool and Angular
 
