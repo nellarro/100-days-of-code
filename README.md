@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+##Day 34: February 10, 2017
+#### FreeCodeCamp Algorithms: Search and Destroy
+
+**Today's Progress**: Beasted it!
+
+**Thoughts**: See above.
+
 ##Day 33: February 8, 2017
 #### Postcards for Devs and Aliases
 
