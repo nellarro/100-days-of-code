@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+##Day 36: February 12, 2017
+#### Angular and FreeCodeCamp(jQuery) 
+
+**Today's Progress**: Expanded on Angular app. FreeCodeCamp.  
+
+**Thoughts**: My break from coding was more coding :). 
+
+**Links**: [FreeCodeCamp](https://www.freecodecamp.com/challenges/prefilter-json) 
+
+##Day 35: February 11, 2017
+#### Angular 
+
+**Today's Progress**: Simple app. No styling. 
+
+**Thoughts**: Whoever says that React and Angular are basically the same is a liar. They should be fed Mrs. Mooney's meat pies before Sweeny Todd. It's still really fun to learn how things work on the other side, though. Learning a lot about jQuery, binding (versus interpolation) and manipulating state. 
+
 ##Day 34: February 10, 2017
 #### FreeCodeCamp Algorithms: Search and Destroy
 
