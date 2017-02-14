@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+##Day 37: February 13, 2017
+#### Chuck Norris Quote Generator
+
+**Today's Progress** Complete Chuck Norris quote generator using the [Chuck Norris Quote API](https://api.chucknorris.io/).  
+
+**Thoughts**: This was incredibly fun! I actually didn't intend to work on it for as long as I did, though. I ended up working on it for over 5 hours not because of the jQuery (learned some pretty nifty jQuery skillz beforehand) but because I couldn't get both my Roundhouse Kick button and my Twitter button to stick to the bottom. It ended up working out (I forgot the bottom property existed for two hours...doy). 
+
+**Links**:
+-![Quote Generator Image](./images/chuck.png)
+-[Chuck Norris on CodePen](https://codepen.io/nellarro/pen/RKEywX)
+
 ##Day 36: February 12, 2017
 #### Angular and FreeCodeCamp(jQuery) 
 
